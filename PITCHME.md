@@ -1,110 +1,62 @@
----?image=https://i2.wp.com/dotdev.co/wp-content/uploads/2017/04/about-dotdev.png
+# Free Software for Education
 
 ---
 
-## Welcome to gitpitch
+### Software today
 
-### How about some Laravel?
+It's hard to think about modern life as we know it without software
 
-```php
-<?php
-
-class Idea extends Eloquent
-{
-
-    /**
-     * Dreaming of something more?
-     *
-     * @with  Laravel
-     */
-     public function create()
-     {
-        // Have a fresh start...
-     }
-
-}
-```
+As we become more and more dependant on it, we should be concerned about how we think about software, and even more about what we teach to younger generations
 
 ---
 
-### Or maybe a heading?
+### Overview
 
-<br>
-<span style="color:gray">Markdown Presentations For Everyone</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab and Bitbucket</span>
+- It's "free" as in freedom
+- It's important for education
 
 ---
 
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
-<br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+## Free as in freedom
+
+- [It's a matter of liberty, not price](https://www.gnu.org/philosophy/free-sw.en.html)
+- It's software that respects users' freedom
+- Users have the freedom to **run**, **copy**, **distribute**, **study**, **change** and **improve** the software
 
 ---
 
-### No more <span style="color: #666666">Keynote.</span>
-### No more <span style="color: #666666">Powerpoint.</span>
-<br>
-### Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.
+## Running  the software
+
+- It can be run by anyone in any ways for any purposes
+    - No limits to the number of users or PCs
+    - No discrimination by country, political thoughts or any other means
+    - This creates an equity atmosphere
 
 ---
 
-<span style="color: #e49436">STEP 1. PITCHME.md</span>
+## Studying and improving it
 
-![MARKDOWN](https://d1z75bzl1vljy2.cloudfront.net/hello-world/markdown.png)
-
-Create GitPitch slideshow content using GitHub flavored Markdown in your favorite editor.
-
----
-
-<span style="color: #e49436">STEP 2. GIT-COMMIT</span>
-
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
-
-Git-commit on any branch and push your PITCHME.md to GitHub, GitLab or Bitbucket.
+- Source code is available
+- Everyone can see how software works, change it, and play with the results
+    - This stimulates active experimentation in the classroom
 
 ---
 
-<span style="color: #e49436">STEP 3. GET THE WORD OUT!</span>
+## Passing it on
 
-<br>
-
-<span style="font-size: 1.3em;"><span style="color:white">htt</span><span style="color:white">ps://git</span><span style="color: #e49436">pitch</span><span style="color: white">.com/<span style="color: #e49436">user</span>/<span style="color: #e49436">repo</span>/<span style="color: #e49436">branch</span></span>
-
-<br>
-
-Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
+- Others can benefit from your work
+- Non source code contributions are also welcome
+    - This opens up collaboration opportunities
 
 ---
 
-<span style="color: #e49436">GIT</span>PITCH DESIGNED FOR SHARING
+## Conclusion
 
-![SOCIAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/gp-social.jpg)
-
-- View any slideshow at its public URL
-- Promote any slideshow using a GitHub badge
-- Embed any slideshow within a blog or website
-- Share any slideshow on Twitter, LinkedIn, etc
-- Print any slideshow as a PDF document
-- Download and present any slideshow offline
+Free Software is **the natural choice** for education
 
 ---
 
-<span style="color: #e49436">GIT</span>PITCH FEATURE RICH SLIDESHOWS
+## Sources
 
-- GitHub Flavored Markdown +
-- Code Block and GIST Slides
-- Image and Video Slides
-- Custom Logos and Backgrounds
-- Multiple Themes And More
-- <span style="color: #e49436">Plus...</span>
-- Your Slideshow Is Part Of Your Project
-- Under Git Version Control Within Your Git Repo
-
-
----
-
-### Go for it.
-### Just add <span style="color: #e49436; text-transform: none">PITCHME.md</span> ;)
+- [What is free software](https://www.gnu.org/philosophy/free-sw.en.html)
+- [Open Source in Higher Education: Top 10 Universities](https://axelerant.com/open-source-in-higher-education/)
