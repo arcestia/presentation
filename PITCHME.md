@@ -1,57 +1,58 @@
-# ![avatar][] Laurensius Jeffrey Chandra
+# Curriculum Vitae
+---
+
+## Hello, my name is...
+### Laurensius Jeffrey Chandra
 
 ---
 
-> #### Quality Assurance at Fourlook.com
-> #####  Jakarta, Indonesia &emsp; [arcestia.com][homepage] &emsp; [@LizSnowy][twitter] ![twit][]
-> `System Analyst`, `Devops`, `QA`, `Programmer`, `Sysadmin`
+### Overview
+
+- It's "free" as in freedom
+- It's important for education
 
 ---
-> **"** People Don't know me, cause I am private person. That's why i start my startup to stand in for Human Rights and Privacy.
 
+## Free as in freedom
 
----
-## Experience
-#### Technical Advisor at Kwikku Nusantara &emsp; <small>*Apr 2017 - Present*</small>
-`Debugging`, `Bug Hunter`, `Big Data`, `Social Media`, `Marketing`
-> Kwikku is startup from Malang and now currently based in jakarta. Kwikku made new brands of social media for indonesian.
+- [It's a matter of liberty, not price](https://www.gnu.org/philosophy/free-sw.en.html)
+- It's software that respects users' freedom
+- Users have the freedom to **run**, **copy**, **distribute**, **study**, **change** and **improve** the software
 
 ---
-#### Co-Founder, Partner at Ascendio Foundation &emsp; <small>*Jan 2017 - Present*</small>
-`Social`, `Future Technology`, `Research`
-> Social foundation that has missions to help poor learn and know technology. We believe that all children have to reach the future technology, so we will bring it to them.
+
+## Running  the software
+
+- It can be run by anyone in any ways for any purposes
+    - No limits to the number of users or PCs
+    - No discrimination by country, political thoughts or any other means
+    - This creates an equity atmosphere
 
 ---
-#### Quality Assurance Analyst at Fourlook.com &emsp; <small>*Mar 2016 - Present*</small>
-> Fourlook Intranet by Kwikku Media Nusantara
+
+## Studying and improving it
+
+- Source code is available
+- Everyone can see how software works, change it, and play with the results
+    - This stimulates active experimentation in the classroom
 
 ---
-## Education
-#### STMIK Harvest &emsp; <small>*2016 - 2020*</small>
-`C`, `Java`, `PHP`, `Python`, `Machine Learning`, `Hadoop`, `Cassandra`, `Weex`, `React Native`, `React.Js`, `Vue.js`, `etc.`
-> Focused in Mobile Programming
-> Develop in new kind of creativity sites
+
+## Passing it on
+
+- Others can benefit from your work
+- Non source code contributions are also welcome
+    - This opens up collaboration opportunities
 
 ---
-## Open Source
-#### [Klasemate](https://github.com/arcestiaishere/klasemate/)
-Free open-source discussion board (forum) software, written in object-oriented PHP.
+
+## Conclusion
+
+Free Software is **the natural choice** for education
 
 ---
-## Writing
 
-> 5 Years Experience at Web Design and 4 Years in Developing Website.Actively writing at some community and
-sites.Tech Journalist and Blogger with 7 Years Experience in Programming and Social Media.
+## Sources
 
----
-## Favorites
-#### Editor
-Vim and Atom
-#### Operating System
-Windows, Ubuntu, Debian, Fedora, and LFS
-
----
-[avatar]: https://github.com/arcestia.png
-[homepage]: https://arcestia.com
-[twitter]: https://twitter.com/LizSnowy
-[twit]: http://cdn-careers.sstatic.net/careers/Img/icon-twitter.png?v=b1bd58ad2034
+- [What is free software](https://www.gnu.org/philosophy/free-sw.en.html)
+- [Open Source in Higher Education: Top 10 Universities](https://axelerant.com/open-source-in-higher-education/)
