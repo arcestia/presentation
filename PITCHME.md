@@ -9,29 +9,22 @@
 ## Education
 
 ### STMIK HARVEST
-Bachelor’s Degree, Information System
+Bachelor’s Degree, Information System,
 2016-2020
 
 ### SMK BONAVITA
-High School, Computer & Network Engineering
+High School, Computer & Network Engineering,
 2013-2016
 
 ---
 
-## Free as in freedom
-
-- [It's a matter of liberty, not price](https://www.gnu.org/philosophy/free-sw.en.html)
-- It's software that respects users' freedom
-- Users have the freedom to **run**, **copy**, **distribute**, **study**, **change** and **improve** the software
+# Experience
 
 ---
 
-## Running  the software
-
-- It can be run by anyone in any ways for any purposes
-    - No limits to the number of users or PCs
-    - No discrimination by country, political thoughts or any other means
-    - This creates an equity atmosphere
+### Technical Advisor at Kwikku Nusantara
+*Apr 2017 - Present*
+> Kwikku is startup from Malang and now currently based in jakarta. Kwikku made new brands of social media for indonesian.
 
 ---
 
