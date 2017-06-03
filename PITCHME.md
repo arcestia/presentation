@@ -1,5 +1,4 @@
-# Free Software for Education
-
+# Default
 ---
 
 ### Software today
