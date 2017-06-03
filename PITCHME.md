@@ -6,10 +6,15 @@
 
 ---
 
-### Overview
+## Education
 
-- It's "free" as in freedom
-- It's important for education
+### STMIK HARVEST
+Bachelor’s Degree, Information System
+2016-2020
+
+### SMK BONAVITA
+High School, Computer & Network Engineering
+2013-2016
 
 ---
 
