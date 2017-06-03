@@ -46,7 +46,32 @@ High School, Computer & Network Engineering,
 
 ---
 
-## Sources
+## Certifications
 
-- [What is free software](https://www.gnu.org/philosophy/free-sw.en.html)
-- [Open Source in Higher Education: Top 10 Universities](https://axelerant.com/open-source-in-higher-education/)
+- Microsoft Certified Solutions Developer, Microsoft
+- Microsoft Technology Associate, Microsoft
+- Mikrotik Certified Network Associate, MikroTik
+
+---
+
+## Publications
+
+- Make Open Source Blog with Jekyll and Github Pages,
+**Jan 20, 2016 Skymedia Digital**
+
+---
+
+## About Me
+> 5 Years Experience at Web Design and 4 Years in Developing Website.Actively writing at some community and sites.Tech Journalist and Blogger with 7 Years Experience in Programming and Social Media.
+
+---
+
+## Links
+### [Linkedin](https://www.linkedin.com/in/arcestia/)
+### [Blog](https://arcestia.com)
+### [Facebook](https://fb.com/Arcestia)
+### [Twitter](https://twitter.com/LizSnowy)
+
+---
+
+# Thank You
