@@ -22,31 +22,27 @@ High School, Computer & Network Engineering,
 
 ---
 
-### Technical Advisor at Kwikku Nusantara
+#### Technical Advisor at Kwikku Nusantara
 *Apr 2017 - Present*
 > Kwikku is startup from Malang and now currently based in jakarta. Kwikku made new brands of social media for indonesian.
 
 ---
 
-## Studying and improving it
-
-- Source code is available
-- Everyone can see how software works, change it, and play with the results
-    - This stimulates active experimentation in the classroom
+#### Co-Founder, Partner at Ascendio Foundation
+*Jan 2017 - Present*
+> Social foundation that has missions to help poor learn and know technology. We believe that all children have to reach the future technology, so we will bring it to them.
 
 ---
 
-## Passing it on
-
-- Others can benefit from your work
-- Non source code contributions are also welcome
-    - This opens up collaboration opportunities
+#### Quality Assurance Analyst at Fourlook.com
+*Mar 2016 - Present*
+> Fourlook Intranet is Media Communication held by Kwikku Media Nusantara
 
 ---
 
-## Conclusion
-
-Free Software is **the natural choice** for education
+#### Senior Web Developer at Skyventures Interactive Ltd Pte.
+*Sep 2015 – May 2016*
+> Lead Web Development Project
 
 ---
 
