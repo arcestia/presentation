@@ -59,3 +59,4 @@ Free Software is **the natural choice** for education
 
 - [What is free software](https://www.gnu.org/philosophy/free-sw.en.html)
 - [Open Source in Higher Education: Top 10 Universities](https://axelerant.com/open-source-in-higher-education/)
+<marquee>TESTING MARQUEE IN PRESENTATION</marquee>
